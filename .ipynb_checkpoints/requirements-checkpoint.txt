@@ -1,0 +1,12 @@
+requests
+pandas
+ast
+matplotlib.pyplot
+seaborn
+scikit-learn
+numpy
+sklearn.model_selection
+sklearn.ensemble
+sklearn.metrics
+folium
+streamlit_folium
