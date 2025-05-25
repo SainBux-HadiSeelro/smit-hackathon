@@ -1,12 +1,8 @@
-requests
+streamlit
 pandas
-ast
-matplotlib.pyplot
+numpy
+matplotlib
 seaborn
 scikit-learn
-numpy
-sklearn.model_selection
-sklearn.ensemble
-sklearn.metrics
 folium
-streamlit_folium
+requests
